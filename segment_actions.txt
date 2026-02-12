@@ -1,0 +1,29 @@
+Customer Segment Action
+1. Champions
+Definition: Customers who purchased recently, frequently, and spend the most.
+Business Actions:
+* Provide exclusive VIP offers and early access to new products.
+* Offer premium loyalty rewards and personalized discounts.
+* Encourage referrals and customer testimonials.
+* Upsell high-value or premium products.
+2. Loyal Customers
+Definition: Customers who purchase regularly and have good spending history.
+Business Actions:
+* Send personalized product recommendations.
+* Offer loyalty programs and reward points.
+* Provide subscription or membership plans.
+* Engage them through email marketing and festive offers.
+3. At Risk Customers
+Definition: Customers who were frequent buyers but have not purchased recently.
+Business Actions:
+* Send win-back campaigns with special discounts.
+* Offer limited-time promotions.
+* Send reminder emails about previous purchases.
+* Provide reactivation coupons.
+4. Regular Customers
+Definition: Customers with average purchase frequency and spending.
+Business Actions:
+* Send seasonal promotions and bundle offers.
+* Encourage repeat purchases with small incentives.
+* Recommend related products.
+
